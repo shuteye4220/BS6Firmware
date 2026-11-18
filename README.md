@@ -28,6 +28,7 @@ accessibility project (e.g. BRLTTY) would document a device.
 | [docs/service-interfaces.md](docs/service-interfaces.md) | The Binder/AIDL interfaces (keyboard + display) and their methods |
 | [docs/dotpad-accessory.md](docs/dotpad-accessory.md) | The external Dot Inc. "DotPad" integration (USB‑serial) |
 | [docs/next-steps.md](docs/next-steps.md) | Open questions and the most promising paths forward |
+| [docs/gpl-request.md](docs/gpl-request.md) | Ready-to-send GPLv2 kernel-source request email |
 
 ## TL;DR
 
